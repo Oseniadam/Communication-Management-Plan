@@ -5,3 +5,4 @@
 ### 2 How those people will receive it
 ### 3 When they'll receive it
 ### 4 How often they should expect to receive that information
+
