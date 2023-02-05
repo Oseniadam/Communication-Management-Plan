@@ -6,4 +6,5 @@
 *3 When they'll receive it*
 *4 How often they should expect to receive that information*
 
-
+Please feel free to use this template for your work. 
+# Check my repo for more agile stuff
